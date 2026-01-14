@@ -7,7 +7,7 @@ title: 美味產品
 這裡有我們每天現做的手工甜點：
 
 ### 巧克力可頌 (Chocolate Croissant)
-![巧克力可頌](assets/img/docs/assets/img/IMG_20250922_141326.jpg)
+![巧克力可頌](assets/img/docs/assets/img/IMG20250922141326.jpg)
 香脆的外皮包裹著濃郁的巧克力。
 
 ### 草莓蛋糕 (Strawberry Cake)
